@@ -21,3 +21,22 @@ body{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
+#end{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 470px;
+    left: 1390px;
+}
+
+.border2{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#doodle1{
+    position: absolute;
+    top: 300px;
+    left: 270px;
+}
