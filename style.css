@@ -40,3 +40,44 @@ body{
     top: 300px;
     left: 270px;
 }
+
+#doodle2{
+    position: absolute;
+    top: 600px;
+    left: 100px;
+}
+
+#doodle3{
+    position: absolute;
+    top: 900px;
+    left: 600px;
+}
+
+#doodle4{
+    position: absolute;
+    top: 50px;
+    left: 800px
+}
+
+#doodle5{
+    position: absolute;
+    top: 500px;
+    left: 1400px;
+}
+
+#doodle6{
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+
+.arrow{
+    position: absolute;
+    top: 800px;
+    left: 1470px;
+}
+
+#text2{
+    font-size: 20px;
+    color: black;
+}
