@@ -17,3 +17,11 @@ A project showcasing all my art work (WIP)
 
 <h3> Submission for #scribble-ysws @Hack Club <3
 
+Image:
+![screenshot](screenshots.png)
+
+<hr>
+
+Note: Please note a LOT of stuff is broken, im fixing them, it wont be in my 2 hrs time for the ysws
+
+
